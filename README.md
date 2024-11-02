@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anshu</h1>
-<h3 align="center">A passionate developer from India with a keen interest in machine learning.</h3>
+<h3 align="center">A passionate developer from India with a keen interest in big data and machine learning</h3>
 
 - 🌱 I’m currently learning **Pytorch,Data Analytics,Big Data,Machine Learning**
 
